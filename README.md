@@ -18,7 +18,7 @@ Clone the repository:
 git clone https://github.com/raj036/To-Do-Application.git
 
 Install dependencies:
-npm install  
+npm install
 
 Start the development server:
 npm start  
