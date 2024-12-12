@@ -1,10 +1,14 @@
 React Todo App ✅
 A simple and efficient Todo application built using React and TypeScript. This project helps users manage their tasks effectively with an intuitive interface.
 
-Features
+Features :-
+
 📝 Add tasks effortlessly with a clean input field.
+
 ❌ Delete tasks easily with a dedicated delete button.
+
 📋 Display tasks in a visually appealing and organized list.
+
 📱 Responsive design for seamless usage on all devices.
 
 Installation
