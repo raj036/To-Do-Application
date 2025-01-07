@@ -1,10 +1,10 @@
-React Todo App ✅
+#React Todo App ✅
 A simple and efficient Todo application built using React and TypeScript. This project helps users manage their tasks effectively with an intuitive interface.
 
-Preview :- 
+##Preview :- 
 ![image alt](https://github.com/raj036/To-Do-Application/blob/3357183ce4dfc443432ae9ecbe9cb184ebbabcde/public/todo.png)
 
-Features :-
+##Features :-
 
 📝 Add tasks effortlessly with a clean input field.
 
